@@ -1,0 +1,15 @@
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\bin\Debug\net6.0\InheritanceHierarchy.exe
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\bin\Debug\net6.0\InheritanceHierarchy.deps.json
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\bin\Debug\net6.0\InheritanceHierarchy.runtimeconfig.json
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\bin\Debug\net6.0\InheritanceHierarchy.dll
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\bin\Debug\net6.0\InheritanceHierarchy.pdb
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\net6.0\InheritanceHierarchy.csproj.AssemblyReference.cache
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\net6.0\InheritanceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\net6.0\InheritanceHierarchy.AssemblyInfoInputs.cache
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\net6.0\InheritanceHierarchy.AssemblyInfo.cs
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\net6.0\InheritanceHierarchy.csproj.CoreCompileInputs.cache
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\net6.0\InheritanceHierarchy.dll
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\net6.0\refint\InheritanceHierarchy.dll
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\net6.0\InheritanceHierarchy.pdb
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\net6.0\InheritanceHierarchy.genruntimeconfig.cache
+F:\VS pr\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\net6.0\ref\InheritanceHierarchy.dll
