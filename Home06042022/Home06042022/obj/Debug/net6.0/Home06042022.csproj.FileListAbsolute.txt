@@ -1,0 +1,15 @@
+F:\VS pr\Home06042022\Home06042022\bin\Debug\net6.0\Home06042022.exe
+F:\VS pr\Home06042022\Home06042022\bin\Debug\net6.0\Home06042022.deps.json
+F:\VS pr\Home06042022\Home06042022\bin\Debug\net6.0\Home06042022.runtimeconfig.json
+F:\VS pr\Home06042022\Home06042022\bin\Debug\net6.0\Home06042022.dll
+F:\VS pr\Home06042022\Home06042022\bin\Debug\net6.0\Home06042022.pdb
+F:\VS pr\Home06042022\Home06042022\obj\Debug\net6.0\Home06042022.csproj.AssemblyReference.cache
+F:\VS pr\Home06042022\Home06042022\obj\Debug\net6.0\Home06042022.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS pr\Home06042022\Home06042022\obj\Debug\net6.0\Home06042022.AssemblyInfoInputs.cache
+F:\VS pr\Home06042022\Home06042022\obj\Debug\net6.0\Home06042022.AssemblyInfo.cs
+F:\VS pr\Home06042022\Home06042022\obj\Debug\net6.0\Home06042022.csproj.CoreCompileInputs.cache
+F:\VS pr\Home06042022\Home06042022\obj\Debug\net6.0\Home06042022.dll
+F:\VS pr\Home06042022\Home06042022\obj\Debug\net6.0\refint\Home06042022.dll
+F:\VS pr\Home06042022\Home06042022\obj\Debug\net6.0\Home06042022.pdb
+F:\VS pr\Home06042022\Home06042022\obj\Debug\net6.0\Home06042022.genruntimeconfig.cache
+F:\VS pr\Home06042022\Home06042022\obj\Debug\net6.0\ref\Home06042022.dll

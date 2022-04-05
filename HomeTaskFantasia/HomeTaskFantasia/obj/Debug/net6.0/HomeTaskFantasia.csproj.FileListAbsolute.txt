@@ -1,0 +1,15 @@
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\bin\Debug\net6.0\HomeTaskFantasia.exe
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\bin\Debug\net6.0\HomeTaskFantasia.deps.json
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\bin\Debug\net6.0\HomeTaskFantasia.runtimeconfig.json
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\bin\Debug\net6.0\HomeTaskFantasia.dll
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\bin\Debug\net6.0\HomeTaskFantasia.pdb
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\obj\Debug\net6.0\HomeTaskFantasia.csproj.AssemblyReference.cache
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\obj\Debug\net6.0\HomeTaskFantasia.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\obj\Debug\net6.0\HomeTaskFantasia.AssemblyInfoInputs.cache
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\obj\Debug\net6.0\HomeTaskFantasia.AssemblyInfo.cs
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\obj\Debug\net6.0\HomeTaskFantasia.csproj.CoreCompileInputs.cache
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\obj\Debug\net6.0\HomeTaskFantasia.dll
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\obj\Debug\net6.0\refint\HomeTaskFantasia.dll
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\obj\Debug\net6.0\HomeTaskFantasia.pdb
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\obj\Debug\net6.0\HomeTaskFantasia.genruntimeconfig.cache
+F:\VS pr\HomeTaskFantasia\HomeTaskFantasia\obj\Debug\net6.0\ref\HomeTaskFantasia.dll
